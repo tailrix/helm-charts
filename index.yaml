@@ -1,14 +1,18 @@
 apiVersion: v1
 entries:
   tailrix:
-  - apiVersion: v1
+  - apiVersion: v2
     appVersion: "1"
-    created: "2024-01-04T14:30:32.106417823Z"
+    created: "2024-01-04T17:51:26.915433728Z"
+    dependencies:
+    - name: bplibchart
+      repository: file://../../common/helm-charts
+      version: 0.1.0
     description: A Helm chart for tailrix backend
-    digest: 3cc29f27b90fd1482e7256201590cbd126fc98fd126c484e7dfea120f86cf2df
+    digest: e8f0217ef9cad648fb7964b58426ab215e0cbe944ade0bd63a5d582dacaac92c
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: tailrix
     urls:
     - tailrix-0.1.0.tgz
     version: 0.1.0
-generated: "2024-01-04T14:30:32.105560611Z"
+generated: "2024-01-04T17:51:26.914625681Z"
