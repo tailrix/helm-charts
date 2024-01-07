@@ -3,7 +3,7 @@ entries:
   tailrix:
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-01-07T00:14:11.30095252Z"
+    created: "2024-01-07T00:35:34.846548739Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -17,7 +17,7 @@ entries:
     version: 0.8.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-01-07T00:14:11.300466224Z"
+    created: "2024-01-07T00:35:34.845806449Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -31,7 +31,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-01-07T00:14:11.300007227Z"
+    created: "2024-01-07T00:35:34.844524465Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -45,7 +45,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-01-07T00:14:11.299502631Z"
+    created: "2024-01-07T00:35:34.843437979Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -59,7 +59,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-01-07T00:14:11.298988634Z"
+    created: "2024-01-07T00:35:34.842975585Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -73,7 +73,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-01-07T00:14:11.298494238Z"
+    created: "2024-01-07T00:35:34.842126396Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -87,7 +87,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-01-07T00:14:11.297956441Z"
+    created: "2024-01-07T00:35:34.841602103Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -101,7 +101,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-01-07T00:14:11.296963048Z"
+    created: "2024-01-07T00:35:34.841115109Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -116,7 +116,7 @@ entries:
   tailrix-frontend:
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-01-07T00:14:11.301459217Z"
+    created: "2024-01-07T00:35:34.847078632Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -131,7 +131,21 @@ entries:
   tailrixfrontend:
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-01-07T00:14:11.302946207Z"
+    created: "2024-01-07T00:35:34.847586626Z"
+    dependencies:
+    - name: bplibchart
+      repository: file://../../common/helm-charts
+      version: 0.1.0
+    description: A Helm chart for tailrix frontend
+    digest: a4e8bfdf71c4ae5a3a059ba6158f6b8a62cf5b5a5e704acc36455f85629a52bb
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
+    name: tailrixfrontend
+    urls:
+    - tailrixfrontend-0.10.0.tgz
+    version: 0.10.0
+  - apiVersion: v2
+    appVersion: "1"
+    created: "2024-01-07T00:35:34.849104906Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -145,7 +159,7 @@ entries:
     version: 0.9.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-01-07T00:14:11.30242541Z"
+    created: "2024-01-07T00:35:34.848620712Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -159,7 +173,7 @@ entries:
     version: 0.8.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-01-07T00:14:11.301939814Z"
+    created: "2024-01-07T00:35:34.848100119Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -171,4 +185,4 @@ entries:
     urls:
     - tailrixfrontend-0.7.0.tgz
     version: 0.7.0
-generated: "2024-01-07T00:14:11.295584658Z"
+generated: "2024-01-07T00:35:34.840353219Z"
