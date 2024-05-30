@@ -3,7 +3,7 @@ entries:
   tailrix:
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.376422995Z"
+    created: "2024-05-30T21:19:48.663512032Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -17,7 +17,7 @@ entries:
     version: 0.24.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.376034671Z"
+    created: "2024-05-30T21:19:48.662662924Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -31,7 +31,7 @@ entries:
     version: 0.23.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.375663439Z"
+    created: "2024-05-30T21:19:48.660101534Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -45,7 +45,7 @@ entries:
     version: 0.22.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.375255889Z"
+    created: "2024-05-30T21:19:48.659387118Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -59,7 +59,7 @@ entries:
     version: 0.21.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.374868447Z"
+    created: "2024-05-30T21:19:48.658667352Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -73,7 +73,7 @@ entries:
     version: 0.20.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.37409761Z"
+    created: "2024-05-30T21:19:48.657135056Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -87,7 +87,7 @@ entries:
     version: 0.19.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.373027919Z"
+    created: "2024-05-30T21:19:48.6563777Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -101,7 +101,7 @@ entries:
     version: 0.18.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.372188084Z"
+    created: "2024-05-30T21:19:48.655686537Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -115,7 +115,7 @@ entries:
     version: 0.17.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.371507201Z"
+    created: "2024-05-30T21:19:48.654953867Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -129,7 +129,7 @@ entries:
     version: 0.16.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.371162148Z"
+    created: "2024-05-30T21:19:48.654203153Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -143,7 +143,7 @@ entries:
     version: 0.15.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.370815832Z"
+    created: "2024-05-30T21:19:48.653501691Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -157,7 +157,7 @@ entries:
     version: 0.14.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.370455601Z"
+    created: "2024-05-30T21:19:48.652845103Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -171,7 +171,7 @@ entries:
     version: 0.13.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.370088146Z"
+    created: "2024-05-30T21:19:48.652167706Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -185,7 +185,7 @@ entries:
     version: 0.12.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.369559931Z"
+    created: "2024-05-30T21:19:48.651417263Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -199,7 +199,7 @@ entries:
     version: 0.11.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.369142783Z"
+    created: "2024-05-30T21:19:48.650683711Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -213,7 +213,7 @@ entries:
     version: 0.10.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.379002403Z"
+    created: "2024-05-30T21:19:48.666078832Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -227,7 +227,7 @@ entries:
     version: 0.9.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.378644146Z"
+    created: "2024-05-30T21:19:48.665722546Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -241,7 +241,7 @@ entries:
     version: 0.8.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.378291418Z"
+    created: "2024-05-30T21:19:48.665325123Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -255,7 +255,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.377882656Z"
+    created: "2024-05-30T21:19:48.664965581Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -269,7 +269,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.377515752Z"
+    created: "2024-05-30T21:19:48.664610947Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -283,7 +283,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.377131976Z"
+    created: "2024-05-30T21:19:48.664250062Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -297,7 +297,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.376780812Z"
+    created: "2024-05-30T21:19:48.663883326Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -311,7 +311,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.374486495Z"
+    created: "2024-05-30T21:19:48.657925444Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -325,7 +325,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.368750652Z"
+    created: "2024-05-30T21:19:48.649962151Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -340,7 +340,7 @@ entries:
   tailrix-frontend:
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.37938707Z"
+    created: "2024-05-30T21:19:48.666452762Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -355,7 +355,21 @@ entries:
   tailrixfrontend:
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.396205012Z"
+    created: "2024-05-30T21:19:48.683164035Z"
+    dependencies:
+    - name: bplibchart
+      repository: file://../../common/helm-charts
+      version: 0.1.0
+    description: A Helm chart for tailrix frontend
+    digest: 4a18d382321d3ff1d9bab4877645ab3c581d002aa2f82d6456618851f797e42f
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
+    name: tailrixfrontend
+    urls:
+    - tailrixfrontend-0.44.0.tgz
+    version: 0.44.0
+  - apiVersion: v2
+    appVersion: "1"
+    created: "2024-05-30T21:19:48.68279242Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -369,7 +383,7 @@ entries:
     version: 0.43.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.395837066Z"
+    created: "2024-05-30T21:19:48.6824185Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -383,7 +397,7 @@ entries:
     version: 0.42.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.395473438Z"
+    created: "2024-05-30T21:19:48.682038219Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -397,7 +411,7 @@ entries:
     version: 0.41.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.395107496Z"
+    created: "2024-05-30T21:19:48.681584029Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -411,7 +425,7 @@ entries:
     version: 0.40.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.394740362Z"
+    created: "2024-05-30T21:19:48.681157782Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -425,7 +439,7 @@ entries:
     version: 0.39.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.394374991Z"
+    created: "2024-05-30T21:19:48.680744389Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -439,7 +453,7 @@ entries:
     version: 0.38.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.394006684Z"
+    created: "2024-05-30T21:19:48.680305388Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -453,7 +467,7 @@ entries:
     version: 0.37.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.393632196Z"
+    created: "2024-05-30T21:19:48.6792629Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -467,7 +481,7 @@ entries:
     version: 0.36.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.393217353Z"
+    created: "2024-05-30T21:19:48.678312482Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -481,7 +495,7 @@ entries:
     version: 0.35.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.392836573Z"
+    created: "2024-05-30T21:19:48.6775258Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -495,7 +509,7 @@ entries:
     version: 0.34.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.392420227Z"
+    created: "2024-05-30T21:19:48.677163943Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -509,7 +523,7 @@ entries:
     version: 0.33.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.391713179Z"
+    created: "2024-05-30T21:19:48.676802968Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -523,7 +537,7 @@ entries:
     version: 0.32.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.391060512Z"
+    created: "2024-05-30T21:19:48.676431193Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -537,7 +551,7 @@ entries:
     version: 0.31.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.390605684Z"
+    created: "2024-05-30T21:19:48.67606632Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -551,7 +565,7 @@ entries:
     version: 0.30.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.388677222Z"
+    created: "2024-05-30T21:19:48.675700987Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -565,7 +579,7 @@ entries:
     version: 0.29.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.387893231Z"
+    created: "2024-05-30T21:19:48.6753337Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -579,7 +593,7 @@ entries:
     version: 0.28.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.387531296Z"
+    created: "2024-05-30T21:19:48.674967435Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -593,7 +607,7 @@ entries:
     version: 0.27.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.38716861Z"
+    created: "2024-05-30T21:19:48.67460078Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -607,7 +621,7 @@ entries:
     version: 0.26.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.386806044Z"
+    created: "2024-05-30T21:19:48.674233422Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -621,7 +635,7 @@ entries:
     version: 0.25.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.386438439Z"
+    created: "2024-05-30T21:19:48.673863721Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -635,7 +649,7 @@ entries:
     version: 0.24.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.386078498Z"
+    created: "2024-05-30T21:19:48.673450779Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -649,7 +663,7 @@ entries:
     version: 0.23.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.385716162Z"
+    created: "2024-05-30T21:19:48.67308256Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -663,7 +677,7 @@ entries:
     version: 0.22.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.385337026Z"
+    created: "2024-05-30T21:19:48.672715423Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -677,7 +691,7 @@ entries:
     version: 0.21.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.384947089Z"
+    created: "2024-05-30T21:19:48.6723446Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -691,7 +705,7 @@ entries:
     version: 0.20.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.384584693Z"
+    created: "2024-05-30T21:19:48.671959019Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -705,7 +719,7 @@ entries:
     version: 0.19.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.384220765Z"
+    created: "2024-05-30T21:19:48.671027919Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -719,7 +733,7 @@ entries:
     version: 0.18.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.38385867Z"
+    created: "2024-05-30T21:19:48.670138586Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -733,7 +747,7 @@ entries:
     version: 0.17.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.383491545Z"
+    created: "2024-05-30T21:19:48.669349589Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -747,7 +761,7 @@ entries:
     version: 0.16.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.383123309Z"
+    created: "2024-05-30T21:19:48.668967504Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -761,7 +775,7 @@ entries:
     version: 0.15.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.382750173Z"
+    created: "2024-05-30T21:19:48.668578687Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -775,7 +789,7 @@ entries:
     version: 0.14.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.382357772Z"
+    created: "2024-05-30T21:19:48.668193597Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -789,7 +803,7 @@ entries:
     version: 0.13.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.381180226Z"
+    created: "2024-05-30T21:19:48.667552538Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -803,7 +817,7 @@ entries:
     version: 0.12.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.380141036Z"
+    created: "2024-05-30T21:19:48.667187295Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -817,7 +831,7 @@ entries:
     version: 0.11.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.379764214Z"
+    created: "2024-05-30T21:19:48.66682612Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -831,7 +845,7 @@ entries:
     version: 0.10.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.398026177Z"
+    created: "2024-05-30T21:19:48.684282236Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -845,7 +859,7 @@ entries:
     version: 0.9.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.39693864Z"
+    created: "2024-05-30T21:19:48.683917714Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -859,7 +873,7 @@ entries:
     version: 0.8.0
   - apiVersion: v2
     appVersion: "1"
-    created: "2024-05-19T07:26:35.396571014Z"
+    created: "2024-05-30T21:19:48.683538976Z"
     dependencies:
     - name: bplibchart
       repository: file://../../common/helm-charts
@@ -871,4 +885,4 @@ entries:
     urls:
     - tailrixfrontend-0.7.0.tgz
     version: 0.7.0
-generated: "2024-05-19T07:26:35.368165602Z"
+generated: "2024-05-30T21:19:48.649043443Z"
