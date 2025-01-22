@@ -3,20 +3,6 @@ entries:
   supersetproxy:
   - apiVersion: v2
     appVersion: "1"
-    created: "2025-01-22T21:27:24.660325324Z"
-    dependencies:
-    - name: bplibchart
-      repository: file://../../common/helm-charts
-      version: 0.1.0
-    description: A Helm chart for tailrix superset proxy
-    digest: a5502f752453e3b2737adf22186adafbaccb34271a6cfad9742bc1f6a4ae9653
-    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
-    name: supersetproxy
-    urls:
-    - supersetproxy-1.0.0.tgz
-    version: 1.0.0
-  - apiVersion: v2
-    appVersion: "1"
     created: "2025-01-22T21:27:24.659888322Z"
     dependencies:
     - name: bplibchart
